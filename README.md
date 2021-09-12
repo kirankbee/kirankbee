@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm kiran</h1>
 <h3 align="center">Cloud Architect</h3>
 
-- 🔭 I’m currently working with **Larsen & Toubro**
+- 🔭 I’m Practising  **Cloud Architect**
 
 - 📝 I regularly research, develop, and integrate ML using micro-services [www.rainieranalytics.com](www.rainieranalytics.com)
 
