@@ -3,7 +3,7 @@
 
 - 🔭 I’m Practicing  **Cloud Architect**
 
-- 📝 I regularly research, develop, and integrate ML using micro-services [www.rainieranalytics.com](www.rainieranalytics.com)
+- 📝 I regularly research, develop, and integrate  micro-services [www.rainieranalytics.com](www.rainieranalytics.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
