@@ -3,7 +3,7 @@
 
 - 🔭 I’m a Practicing  **Multi Cloud Architect**
 
-- 📝 I am an expert in  deploying Production ML Models, and bake contextual intelligence through micro-services [www.rainieranalytics.com](www.rainieranalytics.com)
+- 📝 I am an expert in  deploying Production ML Models, and deploy  contextual intelligence on any cloud plaform based on the consumption pattern required. [www.rainieranalytics.com](www.rainieranalytics.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
