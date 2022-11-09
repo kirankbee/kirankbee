@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm kiran</h1>
 <h3 align="center">Cloud Architect</h3>
 
-- 🔭 I’m a Practicing  **Multi Cloud Architect**
+- 🔭 I’m curious   **Just about everything around me**
 
 - 📝 I am an expert in  deploying Production ML Models, and deploy  contextual intelligence on any cloud plaform based on the consumption pattern required. [www.rainieranalytics.com](www.rainieranalytics.com)
 
