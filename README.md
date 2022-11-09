@@ -3,7 +3,7 @@
 
 - 🔭 I’m curious   **Just about everything around me**
 
-- 📝 I am an expert in  deploying Production ML Models, and deploy  contextual intelligence on any cloud plaform based on the consumption pattern required. [www.rainieranalytics.com](www.rainieranalytics.com)
+- 📝 I think i am an expert in   deploying Production ML Models, and release contextual intelligence on any cloud plaform for a consumption pattern.Try me kiran@ [www.rainieranalytics.com](www.rainieranalytics.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
